@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrQbsqAfYgRzS0m917UF1/I7jE+J8qiPUK/+M1Sy/9u98EVP6FSDW171jBB74xltuvpAlORlQlX5l/I/L5rLHQ==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\cs\\ADONET demo\\ADO\\ADO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slrnd\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\slrnd\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
